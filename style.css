@@ -1,0 +1,20 @@
+body{
+    color: white;
+}
+.start{
+    border:1px white solid;
+}
+#myModal{
+    color: black;
+}
+.modal-body{
+    text-align: left;
+}
+.footer{
+    bottom: 0;
+    background-color: white;
+    color: black;
+    line-height: 2;
+    margin: 0;
+}
+
